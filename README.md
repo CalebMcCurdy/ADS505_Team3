@@ -11,7 +11,7 @@ First clone the repository onto your machine using the following command
 
 git init
 
-git clone https://github.com/CalebMcCurdy/ADS505_Team3
+git clone https://github.com/CalebMcCurdy/Bank-Term-Deposit-Predictions.git
 
 Change to the project directory
 
